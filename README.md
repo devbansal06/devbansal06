@@ -7,6 +7,5 @@ I'm a passionate Developer with experience in HTML, CSS, and JS. I love tackling
 - 🌱 Currently learning: JS
 - 🔭 Working on: DSA
 - 🌍 Languages: C, C++, HTML, CSS, JAVASCRIPT
-- 📫 How to reach me: bansaldev665@gmail.com
 
 
